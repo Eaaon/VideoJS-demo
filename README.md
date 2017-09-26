@@ -12,3 +12,5 @@
 <img src="https://github.com/Eaaon/VideoJS-demo/blob/master/official-demo/offial_view.png" alt=""> 
 
 #### [代码链接](https://github.com/Eaaon/VideoJS-demo/blob/master/official-demo/official_code.html "official-code")
+
+#### [效果](http://htmlpreview.github.io/?https://github.com/Eaaon/VideoJS-demo/blob/master/official-demo/official_code.html "official-code")
